@@ -1,45 +1,52 @@
-# Hi, I'm Cesy 👋  
-**Applied ML Engineer | NLP & Predictive Modeling | MS in AI/ML**
+# 👋 Hi, I’m Cesy
 
-I build practical, human centered machine learning systems — from NLP tools to predictive models and time‑series analysis.  
-My background in physics and math gives me a strong foundation for analytical thinking, modeling, and problem‑solving.
+I’m a first‑generation Latina in tech, an applied ML engineer, and someone who genuinely loves building AI systems that feel intentional, supportive, and grounded in real world impact. My work blends machine learning, NLP, data analytics, and human centered design — with a focus on creating tools that are technically strong, emotionally intelligent, and accessible.
 
----
-
-## 🔧 Technical Focus
-- **Machine Learning:** NLP, predictive modeling, time‑series, model evaluation  
-- **Languages:** Python, SQL, SAS, C++, R Programming  
-- **Tools:** scikit‑learn, pandas, NumPy, Jupyter, SAS, Git  
-- **Interests:** Human‑centered AI, explainability, real‑world ML applications  
+I’m especially passionate about:
+- Human‑centered AI  
+- Predictive modeling and financial analytics  
+- NLP for emotional understanding  
+- Time‑series analysis and algorithmic problem‑solving  
+- Clean, reproducible engineering workflows  
 
 ---
 
-## 📦 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 **Taiwanese Bankruptcy Prediction**
-Financial risk modeling using feature engineering, model comparison, and interpretability techniques.  
-*Python | Classification | Model evaluation*
+### 🧠 SEL Journaling Chatbot (NLP + Emotional Intelligence)
+A sentiment‑aware journaling assistant built with Python and TextBlob that guides users through emotional check‑ins, reflective prompts, and SEL‑aligned next‑step suggestions. Designed to interpret modern emotional vocabulary and provide supportive, human‑like responses.
 
-### 🔹 **Robotic Failure Prediction**
-Predictive maintenance model using temperature, speed, and voltage indicators to identify failure patterns.  
-*Python | Time‑series | Anomaly detection*
+### 🤖 Robotic Failure Prediction (SAS + Python)
+Predictive modeling using logistic regression, decision trees, random forests, and ANNs to identify early indicators of robotic system failure. Includes lift analysis, model comparison, and operational insights for industrial robotics.
 
-### 🔹 **Clothing Sales Business Analysis**
-Business intelligence project analyzing sales, customer behavior, and KPIs using SAS and SQL.  
-*SAS | Analytics | Data storytelling*
+### 📉 Taiwanese Bankruptcy Prediction (SAS + Python)
+A financial risk analytics project using logistic regression, decision trees, random forests, and neural networks to identify key financial ratios associated with bankruptcy. Includes AUC comparison, sensitivity analysis, and early‑warning indicator identification.
 
-### 🔹 **DTW-App**
-A modular Python app for exploring Dynamic Time Warping with clean notebooks and visual tools.  
-*Python | Time‑series | Algorithms*
+### 📊 Clothing Sales Business Analysis (SAS)
+A multi‑model statistical analysis exploring promotions, customer behavior, territory performance, and product category profitability. Includes regression modeling, decision trees, and business insights.
 
----
-
-## 🌱 What I'm Working On
-- Expanding my ML engineering portfolio  
-- Building real‑world NLP tools  
+### ⏱️ Dynamic Time Warping App (Python)
+A Python‑based DTW tool for comparing time‑series data using real Google stock data. Computes DTW distance, visualizes alignment paths, and highlights structural differences between time windows.
 
 ---
 
-## 📫 Connect with Me
-Feel free to reach out — I love talking about ML, data, and real‑world applications.  
+## 🛠️ Tech Stack
 
+**Languages:** Python, SQL, SAS, C++  
+**ML & Analytics:** scikit‑learn, TensorFlow/Keras, TextBlob, fastdtw, SAS Enterprise Miner  
+**Tools:** Jupyter, Google Colab, GitHub, VS Code  
+**Specialties:** NLP, predictive modeling, time‑series analysis, data visualization, human‑centered AI  
+
+---
+
+## 🌱 What I’m Focused On
+- Building emotionally intelligent AI systems  
+- Strengthening my ML engineering portfolio  
+- Exploring quantum computing and advanced modeling techniques  
+- Creating accessible, human‑centered tools for real‑world use  
+
+---
+
+## 📫 Let’s Connect
+I love connecting with others in ML, analytics, and human centered tech.  
+Feel free to reach out or explore my projects here on GitHub.
