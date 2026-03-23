@@ -1,14 +1,14 @@
 # Hi, I'm Cesy 👋  
 **Applied ML Engineer | NLP & Predictive Modeling | MS in AI/ML**
 
-I build practical, human‑centered machine learning systems — from NLP tools to predictive models and time‑series analysis.  
+I build practical, human centered machine learning systems — from NLP tools to predictive models and time‑series analysis.  
 My background in physics and math gives me a strong foundation for analytical thinking, modeling, and problem‑solving.
 
 ---
 
 ## 🔧 Technical Focus
 - **Machine Learning:** NLP, predictive modeling, time‑series, model evaluation  
-- **Languages:** Python, SQL, SAS, C++  
+- **Languages:** Python, SQL, SAS, C++, R Programming  
 - **Tools:** scikit‑learn, pandas, NumPy, Jupyter, SAS, Git  
 - **Interests:** Human‑centered AI, explainability, real‑world ML applications  
 
