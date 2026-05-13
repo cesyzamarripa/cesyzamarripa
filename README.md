@@ -29,9 +29,11 @@ A Python‑based DTW tool for comparing time‑series data using real Google sto
 
 ## Tech Stack
 
-**Languages:** Python, SQL, SAS, C++  
-**ML & Analytics:** scikit‑learn, TensorFlow/Keras, TextBlob, fastdtw, SAS Enterprise Miner  
-**Tools:** Jupyter, Google Colab, GitHub, VS Code  
+**Languages**: Python, SQL, SAS, R, C++, MATLAB, LaTeX
+**Libraries:** scikit-learn, TensorFlow / Keras, Pandas, NumPy, Matplotlib, TextBlob, fastdtw, SAS Enterprise Miner, HuggingFace 
+(DialoGPT)
+**ML / AI:** Deep Learning, Predictive Modeling, NLP, Sentiment Analysis, Time-Series Analysis, Classification, ANN, Random 
+Forests, Logistic Regression, Decision Trees, Model Evaluation & Selection**Tools:** Jupyter, Google Colab, Git / GitHub, Linux, Power BI, Tableau 
 **Specialties:** NLP, predictive modeling, time‑series analysis, data visualization, human‑centered AI  
 
 ---
