@@ -39,14 +39,14 @@ A Python‑based DTW tool for comparing time‑series data using real Google sto
 ## Data Analysis/visualization Experience
 - Python (8 years): Advanced use for analytics, predictive modeling, NLP, time‑series forecasting, and ML pipelines (pandas, NumPy, scikit‑learn, TensorFlow/Keras).
 
--SQL (3+ years): Writing complex queries, building data models, optimizing joins, and working with cloud data warehouses such as BigQuery.
+- SQL (3+ years): Writing complex queries, building data models, optimizing joins, and working with cloud data warehouses such as BigQuery.
 
--SAS (3+ years): Certified Tier 3 in SAS predictive analytics; experience with SAS Enterprise Miner for modeling, data preparation, and statistical analysis.
+- SAS (3+ years): Certified Tier 3 in SAS predictive analytics; experience with SAS Enterprise Miner for modeling, data preparation, and statistical analysis.
 
--R (2+ years): Used for statistical analysis, visualization, and academic research.
+- R (2+ years): Used for statistical analysis, visualization, and academic research.
 
--Power BI (1 year): Built dashboards and reports in a project management consulting role and for academic analytics projects.
+- Power BI (1 year): Built dashboards and reports in a project management consulting role and for academic analytics projects.
 
--Other BI tools: Experience with Tableau and Looker Studio for visualization and reporting.
+- Other BI tools: Experience with Tableau and Looker Studio for visualization and reporting.
 
--Snowflake / Databricks: No direct hands‑on experience yet, but strong background in SQL, Python, cloud data workflows, and pipelines translates well to these platforms.
+- Snowflake / Databricks: No direct hands‑on experience yet, but strong background in SQL, Python, cloud data workflows, and pipelines translates well to these platforms.
